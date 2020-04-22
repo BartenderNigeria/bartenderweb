@@ -1,0 +1,46 @@
+body{
+    overflow-x: hidden;
+}
+
+.navbar{
+    background: rgba(0,0,0,0);
+    border: 0px solid #FFF; 
+}
+
+.top-div{
+    background: url("./bg3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    width: 100%;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bt-nav-li{
+    color: #000000;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #FFFFFF;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #000000;
+}
+
+.bt-top-h1{
+    font-family: "Oxygen", sans-serif;
+    font-size: 40px;
+}
+
+.privacy-policy-div{
+    margin-top: 80px;
+}
+
+.nav-black{
+    background: #000000;
+}
