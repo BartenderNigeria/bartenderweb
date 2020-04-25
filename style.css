@@ -8,7 +8,7 @@ body{
 }
 
 .top-div{
-    background: url("./bg3.jpg");
+    background: url("./bg2.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -34,7 +34,7 @@ body{
 
 .bt-top-h1{
     font-family: "Oxygen", sans-serif;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .privacy-policy-div{
@@ -43,4 +43,8 @@ body{
 
 .nav-black{
     background: #000000;
+}
+
+.bt-black-text{
+    color: #000000;
 }
